@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="micropost.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="micropost.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="2" selection-start="76" selection-end="76" vertical-scroll-proportion="0.07445008" vertical-offset="0" max-vertical-offset="591">
+            <state line="2" column="2" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="50" selection-start="2855" selection-end="2855" vertical-scroll-proportion="0.69550174" vertical-offset="918" max-vertical-offset="1518">
               <folding />
             </state>
           </provider>
@@ -64,6 +73,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/models/micropost.rb" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
       </list>
     </option>
   </component>
@@ -208,7 +218,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="D:/Programms/RailsInstaller/Ruby1.9.3/bin/ruby.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../begining_app/config/application.rb" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -381,9 +391,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../begining_app/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="50" selection-start="2810" selection-end="2856" vertical-scroll-proportion="0.6574395" vertical-offset="940" max-vertical-offset="1518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="76" selection-end="76" vertical-scroll-proportion="0.07445008" vertical-offset="0" max-vertical-offset="591">
+        <state line="2" column="2" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="50" selection-start="2855" selection-end="2855" vertical-scroll-proportion="0.69550174" vertical-offset="918" max-vertical-offset="1518">
           <folding />
         </state>
       </provider>
